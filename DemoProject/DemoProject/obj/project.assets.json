@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\sumuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\demo_repo\\DemoProject\\DemoProject\\DemoProject.csproj",
+      "projectUniqueName": "C:\\Users\\sumuk\\Source\\Repos\\demo_repo\\DemoProject\\DemoProject\\DemoProject.csproj",
       "projectName": "DemoProject",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\demo_repo\\DemoProject\\DemoProject\\DemoProject.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\demo_repo\\DemoProject\\DemoProject\\obj\\",
+      "projectPath": "C:\\Users\\sumuk\\Source\\Repos\\demo_repo\\DemoProject\\DemoProject\\DemoProject.csproj",
+      "packagesPath": "C:\\Users\\sumuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sumuk\\Source\\Repos\\demo_repo\\DemoProject\\DemoProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sumuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

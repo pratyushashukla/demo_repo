@@ -6,7 +6,7 @@ namespace DemoProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Pratyusha!");
+            Console.WriteLine("Hello Pratyusha Shukla");
         }
     }
 }
